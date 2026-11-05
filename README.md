@@ -1,16 +1,23 @@
 
-# VedaTech Business Website
+# Veda Technology Business Website
 
-A responsive business website concept showcasing technology services and digital solutions.
+A responsive business website project showcasing technology services, digital solutions, technology programs and internship information.
+
+## Project Overview
+
+This project demonstrates a modern business website developed using HTML, CSS and JavaScript.
 
 ## Features
 
 - Professional business homepage
 - About Us section
-- Technology services section
-- Technology stack showcase
-- Responsive navigation menu
-- Contact form with JavaScript interaction
+- Technology services showcase
+- Technology programs
+- Internship and training section
+- FAQ accordion
+- Contact form with validation
+- Responsive mobile navigation
+- SEO metadata
 - Mobile-friendly layout
 
 ## Technologies Used
@@ -21,15 +28,14 @@ A responsive business website concept showcasing technology services and digital
 
 ## Project Structure
 
-```text
 veda-business-site/
+│
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-```
 
-## Run Locally
+## How to Run
 
 1. Clone or download this repository.
 2. Open the project folder.
@@ -37,7 +43,7 @@ veda-business-site/
 
 ## Deployment
 
-The project can be deployed using GitHub Pages.
+This project can be hosted using GitHub Pages.
 
 ## Author
 
@@ -51,4 +57,4 @@ Email: y.nayanasree@gmail.com
 
 ---
 
-Created as a business website development project.
+Created as a Web Development Internship project.
